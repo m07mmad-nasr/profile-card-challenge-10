@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution](https://github.com/m07mmad-nasr/profile-card-challenge-10)
-- Live Site URL: [Live Site](2)
+- Live Site URL: [Live Site](https://profile-card-challenge-10.vercel.app/)
 
 ## My process
 
